@@ -1,10 +1,14 @@
 ---
 name: Performance issue
-about: Forecast performance
+about: Issue with forecast quality
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+## What happened
 
+## Date/run/CSC/event
+
+## plots
